@@ -64,7 +64,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\test.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
+    <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity/Birby/RPGLearningProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
